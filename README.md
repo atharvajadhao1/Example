@@ -1,3 +1,3 @@
 # Example
-My first repo
+My first repo.
 Author Millionare
